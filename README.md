@@ -6,7 +6,7 @@
 * Mr Macintosh
 * Milico
 
-![Screenshot](https://github.com/yahgoo/Unsupported-Mac-Mini-2012-Monterey/blob/main/img/macOS%20Monterey%2012_3%20ipad%20mini%206%20mac%20mini%202012.png)
+![Screenshot](https://github.com/yahgoo/Unsupported-Mac-Mini-2012-Ventura-13.0/blob/main/img/About%20Mac%20Mini%20on%20Ventura%20n%20Apple%20Watch%20Ultra.png)
 
 Install macOS 13 Ventura 13.0 on Mac mini 2012 with Opencore GUI Patcher (OCLP) v0.5.1
 1. Run OCLP
